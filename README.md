@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0647-palindromic-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0686-repeated-string-match) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+## Hash Table
+|  |
+| ------- |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3121-count-the-number-of-special-characters-ii) |
 <!---LeetCode Topics End-->
