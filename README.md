@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0070-climbing-stairs) |
 | [0647-palindromic-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0647-palindromic-substrings) |
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0070-climbing-stairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2149-rearrange-array-elements-by-sign) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
