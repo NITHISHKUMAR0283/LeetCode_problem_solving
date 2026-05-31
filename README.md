@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0875-koko-eating-bananas) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
