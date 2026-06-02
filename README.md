@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0213-house-robber-ii) |
 | [0875-koko-eating-bananas](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0875-koko-eating-bananas) |
+| [1470-shuffle-the-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1470-shuffle-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
