@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0213-house-robber-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0070-climbing-stairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
