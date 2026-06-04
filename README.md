@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0031-next-permutation) |
 | [0063-unique-paths-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0064-minimum-path-sum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0001-two-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Tree
