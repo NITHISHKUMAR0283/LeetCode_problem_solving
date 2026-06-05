@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0875-koko-eating-bananas) |
 | [1470-shuffle-the-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1470-shuffle-the-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0875-koko-eating-bananas) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0845-longest-mountain-in-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0845-longest-mountain-in-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0845-longest-mountain-in-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Combinatorics
 |  |
@@ -119,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0845-longest-mountain-in-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
