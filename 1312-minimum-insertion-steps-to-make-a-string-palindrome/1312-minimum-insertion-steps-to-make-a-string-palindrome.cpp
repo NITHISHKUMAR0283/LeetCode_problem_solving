@@ -2,21 +2,25 @@ class Solution {
 public:
     int minInsertions(string s) {
         int n = s.length();
-        vector<vector<int>> dp(n+1,vector<int>(n+1,0));
+        vector<int> dp(n+1,0);
         string rev = s;
         reverse(rev.begin(),rev.end());
 
-        for(int i = 1;i<=n;i++){
-            for(int j = 1;j<=n;j++){
-                if(s[i-1]==rev[j-1]){
-                    dp[i][j]=1+dp[i-1][j-1];
+        for(int i = n-1;i>=0;i--){
+            int next_diagonal = 0;
+            for(int j = n-1;j>=0;j--){
+                int temp = dp[j];
+                if(s[i]==rev[j]){
+                    dp[j]=1+next_diagonal;
                 }
                 else{
-                    dp[i][j]=max(dp[i-1][j],dp[i][j-1]);
+                    dp[j]=max(dp[j+1],dp[j]);
                 }
+                next_diagonal = temp;
             }
         }
-        int llcs = dp[n][n];
+        int llcs = dp[0];
+
         return n-llcs;
     }
 };
