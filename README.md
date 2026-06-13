@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0686-repeated-string-match) |
+| [1092-shortest-common-supersequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0845-longest-mountain-in-array) |
+| [1092-shortest-common-supersequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
