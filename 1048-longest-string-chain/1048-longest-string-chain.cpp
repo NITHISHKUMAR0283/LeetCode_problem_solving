@@ -33,8 +33,9 @@ public:
             dp[len].push_back(str);
         }
         
-        vector<int> chain(n+1,1);
         int start = min_ind+1;
+        
+        vector<int> chain(dp[start-1].size(),1);
         int maxi = 1;
         while(start<=max_ind){
             int pars = dp[start].size();
