@@ -10,13 +10,13 @@ public:
         }
         vector<vector<int>> dist (n,vector<int>(k+1,1e9));
 
-        priority_queue<vector<int>,vector<vector<int>>,greater<vector<int>>> min_heap;
+        priority_queue<array<int,3>,vector<array<int,3>>,greater<array<int,3>>> min_heap;
 
         dist[0][1]=0;
         min_heap.push({0,0,1});
 
         while(!min_heap.empty()){
-            auto curr = min_heap.top();
+            array<int, 3> curr = min_heap.top();
             min_heap.pop();
 
             int d = curr[0];
