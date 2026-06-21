@@ -7,8 +7,14 @@ public:
             long long  sum = 0;
             for(int j = i;j<n;j++){
                 sum += nums[j];
-                if(sum%10 == x && (to_string(sum)[0]-'0') == x){
-                    count++;
+                if(sum%10 == x ){
+                    long long temp = sum;
+                    while(temp>=10){
+                        temp/=10;
+                    }
+                    if(temp==x){
+                        count++;
+                    }
             }           
             
         }}
