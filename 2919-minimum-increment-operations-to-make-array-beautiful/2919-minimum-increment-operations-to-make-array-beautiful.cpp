@@ -8,10 +8,8 @@ public:
         dp[2]=max(0,k-nums[2]);
 
         for(int i = 3;i<n;i++){
-            int cost = max(0,k-nums[i]);
-            dp[i]=cost + min(dp[i-3],min(dp[i-1],dp[i-2]));
+            dp[i]= max(0,k-nums[i]) + min(dp[i-3],min(dp[i-1],dp[i-2]));
         }
-        long long  ans = min(dp[n-1],min(dp[n-2],dp[n-3]));
-        return ans;
+        return  min(dp[n-1],min(dp[n-2],dp[n-3]));
     }
 };
