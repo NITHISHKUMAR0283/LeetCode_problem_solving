@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2420-find-all-good-indices](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2420-find-all-good-indices) |
+| [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2420-find-all-good-indices](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2420-find-all-good-indices) |
+| [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Math
 |  |
