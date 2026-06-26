@@ -8,15 +8,15 @@ public:
 
         vector<vector<int>> dp(m,vector<int>(m,0));
 
-        for(int i = m-2 ; i>=1 ;i--){
-            for(int j = i; j<=m-2 ; j++){
-                int mini = INT_MAX;
-                for(int k= i;k<=j;k++){
-                    mini = min(mini , cuts[j+1]-cuts[i-1]+dp[i][k-1]+dp[k+1][j]);
+        for(int len = 2;len<m;len++){
+            for(int i = 0;i<m-len ; i++){
+                int j = i+len;
+                dp[i][j]  = INT_MAX;
+                for(int k = i+1;k<j ; k++){
+                    dp[i][j] = min(dp[i][j],cuts[j]-cuts[i]+dp[i][k]+dp[k][j]);
                 }
-                dp[i][j]=mini;
             }
         }
-        return dp[1][m-2];
+        return dp[0][m-1];
     }
 };
