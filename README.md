@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## String Matching
 |  |
 | ------- |
@@ -171,10 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0845-longest-mountain-in-array) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Ordered Set
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0494-target-sum) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Linked List
 |  |
 | ------- |
