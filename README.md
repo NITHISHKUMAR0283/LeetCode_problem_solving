@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0120-triangle) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0064-minimum-path-sum) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1922-count-good-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
