@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1189-maximum-number-of-balloons) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Tree
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1189-maximum-number-of-balloons) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sliding Window
 |  |
 | ------- |
