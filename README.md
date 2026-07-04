@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0120-triangle) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Memoization
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0064-minimum-path-sum) |
 ## Enumeration
