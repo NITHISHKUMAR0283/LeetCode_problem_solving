@@ -2,7 +2,7 @@ class Solution {
     public int[][] merge(int[][] intervals) {
         Arrays.sort(intervals,(a,b)->Integer.compare(a[0],b[0]));
         int n = intervals.length;
-        List<List<Integer>> result = new ArrayList<> ();
+        List<int[]> result = new ArrayList<> ();
 
         int i = 0;
         while(i<n){
@@ -12,16 +12,9 @@ class Solution {
                 end = Math.max(end,intervals[i+1][1]);
                 i++;
             }
-            result.add(List.of(start,end));
+            result.add(new int [] {start,end});
             i++;
         }
-        int [][] results = new int [result.size()][2];
-        
-        for(i = 0; i<result.size();i++){
-            for(int j = 0; j<2 ; j++){
-                results[i][j]=result.get(i).get(j);
-            }
-        }
-        return results;
+        return result.toArray(new int[result.size()][]);
     }
 }
