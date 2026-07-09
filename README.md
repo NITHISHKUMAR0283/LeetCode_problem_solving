@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2420-find-all-good-indices](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2420-find-all-good-indices) |
 | [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2420-find-all-good-indices](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2420-find-all-good-indices) |
 | [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
+| [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Math
 |  |
 | ------- |
