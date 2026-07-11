@@ -1,7 +1,7 @@
 class Solution {
 public:
     string majorityFrequencyGroup(string s) {
-        map<char,int> freq;
+        unordered_map<char,int> freq;
         for(auto& c: s){
             freq[c]++;
         }        
