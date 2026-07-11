@@ -20,8 +20,8 @@ public:
 
 
         }
-        ans = bucket[ans_f];
-        string res (ans.begin(),ans.end());
+        vector<char>& ress = bucket[ans_f];
+        string res (ress.begin(),ress.end());
         return res;
     }
 };
