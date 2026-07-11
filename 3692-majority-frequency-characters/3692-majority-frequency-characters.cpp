@@ -11,10 +11,10 @@ public:
         int ans_f = 0;
         for(auto& [c,f] : freq){
             bucket[f].push_back(c);
-            
-            if (max_len<bucket[f].size() || (max_len==bucket[f].size() && ans_f<f)){
+            int cc = bucket[f].size();
+            if (max_len<cc || (max_len==cc && ans_f<f)){
                 
-                max_len = bucket[f].size();
+                max_len = cc;
                 ans_f = f;
             }
 
