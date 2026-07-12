@@ -142,11 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0733-flood-fill) |
 ## Binary Search Tree
@@ -255,4 +257,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0053-maximum-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
