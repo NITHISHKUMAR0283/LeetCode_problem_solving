@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0070-climbing-stairs) |
 | [1922-count-good-numbers](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1922-count-good-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0547-number-of-provinces) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
