@@ -1,0 +1,39 @@
+class Solution {
+public:
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        vector<vector<int>> adj(numCourses);        
+        vector<int> indegree(numCourses,0);
+
+        for(const auto& pair:prerequisites){
+                adj[pair[1]].push_back(pair[0]);;              
+                indegree[pair[0]]++;
+            }
+        
+        queue <int> q;
+        int count = 0;
+        for(int u = 0;u<numCourses;u++){
+            if(indegree[u]==0){
+                q.push(u);
+            }
+        }
+        vector<int>order;
+
+
+        while(!q.empty()){
+            auto node = q.front();
+            q.pop();
+            order.push_back(node);
+            count++;
+            for(auto v : adj[node]){
+                indegree[v]--;
+                if(indegree[v]==0){
+                    q.push(v);
+                }
+            }
+        }
+        if(count!=numCourses)return {};
+        return order;
+    }
+};
