@@ -5,7 +5,7 @@ public:
         unordered_map<int,vector<int>> adj;        
         vector<int> indegree(numCourses);
 
-        for(auto pair:prerequisites){
+        for(auto& pair:prerequisites){
                 adj[pair[1]].push_back(pair[0]);                
                 indegree[pair[0]]++;
             }
