@@ -2,16 +2,14 @@ class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
 
-        unordered_map<int,vector<int>> adj;        
-        vector<int> indegree(numCourses);
+        vector<vector<int>> adj(numCourses,vector<int>(numCourses,0));        
+        vector<int> indegree(numCourses,0);
 
         for(auto& pair:prerequisites){
-                adj[pair[1]].push_back(pair[0]);                
+                adj[pair[1]][pair[0]]=1;              
                 indegree[pair[0]]++;
             }
         
-
-
         queue <int> q;
 
         for(int u = 0;u<numCourses;u++){
@@ -24,7 +22,8 @@ public:
         while(!q.empty()){
             auto node = q.front();
             q.pop();
-            for(auto v :adj[node]){
+            for(int v =0; v<numCourses;v++){
+                if(adj[node][v]!=1)continue;
                 indegree[v]--;
                 if(indegree[v]==0){
                     q.push(v);
