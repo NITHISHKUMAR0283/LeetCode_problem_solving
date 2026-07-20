@@ -2,18 +2,17 @@ class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
 
-        unordered_map<int,vector<int>> adj;
+        unordered_map<int,vector<int>> adj;        
+        vector<int> indegree(numCourses);
 
-        
         for(auto pair:prerequisites){
-                adj[pair[1]].push_back(pair[0]);
+                adj[pair[1]].push_back(pair[0]);                
+                indegree[pair[0]]++;
             }
         
-        vector<int> indegree(numCourses);
 
         for(auto [u,nei] : adj){
             for(auto v:nei){
-                indegree[v]++;
             }
         }
 
