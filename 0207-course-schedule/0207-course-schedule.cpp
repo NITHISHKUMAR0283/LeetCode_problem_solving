@@ -1,11 +1,12 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         vector<vector<int>> adj(numCourses);        
         vector<int> indegree(numCourses,0);
 
-        for(auto& pair:prerequisites){
+        for(const auto& pair:prerequisites){
                 adj[pair[1]].push_back(pair[0]);;              
                 indegree[pair[0]]++;
             }
