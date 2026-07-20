@@ -11,10 +11,6 @@ public:
             }
         
 
-        for(auto [u,nei] : adj){
-            for(auto v:nei){
-            }
-        }
 
         queue <int> q;
 
