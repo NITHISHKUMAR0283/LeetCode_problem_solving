@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0802-find-eventual-safe-states) |
 ## Number Theory
 |  |
@@ -297,5 +300,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
