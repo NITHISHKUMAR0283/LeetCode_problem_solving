@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0827-making-a-large-island) |
 | [0845-longest-mountain-in-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1004-max-consecutive-ones-iii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1631-path-with-minimum-effort) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0827-making-a-large-island) |
 | [1631-path-with-minimum-effort](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1631-path-with-minimum-effort) |
 ## Enumeration
 |  |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0547-number-of-provinces) |
+| [0827-making-a-large-island](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1631-path-with-minimum-effort) |
