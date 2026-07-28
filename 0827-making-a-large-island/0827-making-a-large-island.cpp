@@ -43,6 +43,8 @@ class DisjointSet{
 class Solution {
 public:
     int largestIsland(vector<vector<int>>& grid) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         int n = grid.size();
         DisjointSet dsu (n*n);
         vector<vector<bool>> visited(n,vector<bool> (n,false));
