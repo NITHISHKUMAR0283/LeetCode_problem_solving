@@ -52,27 +52,16 @@ public:
         vector<pair<int,int>>direction = {
             {0,1}, {0,-1} , {1,0} , {-1,0}
         };
-        queue<pair<int,int>> q;
-        // bfs with disjoint set
         for(int i = 0;i<n;i++){
-            for(int  j = 0;j<n;j++){
-                if(visited[i][j]==true)continue;
-                if(grid[i][j]==0)continue;
-                int par_ind = i*n+j;
-                q.push({i,j});
-                while(!q.empty()){
-                    auto  [k,m] = q.front();
-                    q.pop();
-                    if(visited[k][m]==true)continue;
-                    visited[k][m]=true;
-                    for(auto &[di,dj]: direction){
-                        int ni = di+k;
-                        int nj = dj+m;
-                        if(0<=ni && ni<n && 0<=nj && nj<n && grid[ni][nj]==1){
-                            q.push({ni,nj});
-                            int child_ind = ni*n+nj;
-                            dsu.union_size(par_ind,child_ind);                            
-                        }
+            for(int j = 0;j<n;j++){
+                if(grid[i][j]==1 ){
+                    int curr = i*n+j;
+
+                    if(j+1<n && grid[i][j+1]==1){
+                        dsu.union_size(curr,curr+1);
+                    }
+                    if(i+1<n && grid[i+1][j]==1){
+                        dsu.union_size(curr,curr+n);
                     }
                 }
             }
