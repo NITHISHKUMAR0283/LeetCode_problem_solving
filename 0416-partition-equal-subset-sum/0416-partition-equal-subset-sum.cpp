@@ -1,25 +1,33 @@
-#include <numeric>
 class Solution {
 public:
-    bool canPartition(vector<int>& nums) {
-        int n= nums.size();
-        int sums  = reduce(nums.begin(),nums.end());
-        int h_sum =sums/2;
-        if(sums%2==1)return false;
-        vector<vector<bool>> dp ( n+1,vector<bool>(h_sum+1,false));
+    bool isSubsetSum(vector<int>& arr, int sum) {
+        // code here
+        
+        vector<bool> present (sum+1,false);
+        int n = arr.size();
+        
+        present[0]=true;
         for(int i = 0;i<n;i++){
-            dp[i][0]=true;
-        }
-        for(int i = 1;i<=n ;i++){
-            for(int j =1 ;j<=h_sum;j++){
-                bool nottaken = dp[i-1][j];
-                int taken = false;
-                if(nums[i-1]<=j){
-                    taken = dp[i-1][j-nums[i-1]];
+            int curr = arr[i];
+            //assuming using the current as the last step can we reach the sum of prev
+            for(int res = sum;res>-1;res--){
+                int prev = res-curr;
+                if(prev<0)continue;
+                if(present[prev]==true){
+                    present[res]=true;
                 }
-                dp[i][j] = nottaken || taken ;
             }
         }
-        return dp[n][h_sum];
+        return present[sum];
     }
+    bool canPartition(vector<int>& nums) {
+        int sum = accumulate (nums.begin(),nums.end(),0);
+        if(sum%2==1)return false;
+        int target = sum/2;
+        return isSubsetSum(nums,target);
+
+
+
+    }
+
 };
