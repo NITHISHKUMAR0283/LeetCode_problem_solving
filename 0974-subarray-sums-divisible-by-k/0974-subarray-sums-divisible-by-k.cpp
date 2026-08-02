@@ -7,7 +7,10 @@ public:
         presum[0]=1;
         for(int ele:nums){
             sum+=ele;
-            int comp = (sum%k+k)%k;
+            int comp = (sum%k);
+            if(comp<0){
+                comp+=k;
+            }
             if(presum.find(comp)!=presum.end()){
                 count+=presum[comp];
             }
