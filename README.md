@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0827-making-a-large-island) |
 | [0845-longest-mountain-in-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0875-koko-eating-bananas) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1048-longest-string-chain) |
 | [1470-shuffle-the-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1470-shuffle-the-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1004-max-consecutive-ones-iii) |
 | [2420-find-all-good-indices](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2420-find-all-good-indices) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
