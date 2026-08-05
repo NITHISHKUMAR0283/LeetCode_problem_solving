@@ -8,7 +8,6 @@ public:
         for(int i = start;i<n;i++){
             numInd.push_back({nums[i],i});
         }
-        sort(numInd.begin(),numInd.end());
         int i = 0,j=numInd.size()-1;
         while(i<j){
             int sum = numInd[i].first+numInd[j].first;
