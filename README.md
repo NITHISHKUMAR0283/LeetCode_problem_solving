@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0053-maximum-subarray) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0151-reverse-words-in-a-string) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0229-majority-element-ii) |
 | [1048-longest-string-chain](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1048-longest-string-chain) |
