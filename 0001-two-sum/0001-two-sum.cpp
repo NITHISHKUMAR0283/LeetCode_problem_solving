@@ -1,18 +1,27 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int,int> index;
-        for(int i = 0;i<nums.size();i++){
-            index[nums[i]]=i;
+        vector<pair<int,int>> numInd;        
+        int n = nums.size();
+        for(int i = 0;i<n;i++){
+            numInd.push_back({nums[i],i});
         }
-        for(int i = 0;i<nums.size();i++){
-            int ele = nums[i];
-            int compliment = target-ele;
-            auto it = index.find(compliment);
-            if(it!=index.end() && it->second!=i){
-                return {i,index[compliment]};
+        sort(numInd.begin(),numInd.end());
+        int i = 0,j=n-1;
+        while(i<j){
+            int sum = numInd[i].first+numInd[j].first;
+            if(sum==target){
+                return {numInd[i].second,numInd[j].second};
             }
+            if(sum>target){
+                j--;
+            }
+            else if(sum<target){
+                i++;
+            }
+            
         }
-        return {};
+        return {0,0};
+
     }
 };
