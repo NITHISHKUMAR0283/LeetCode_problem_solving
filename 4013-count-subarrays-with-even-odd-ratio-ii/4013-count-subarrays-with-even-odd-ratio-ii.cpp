@@ -45,7 +45,7 @@ public:
         
         long long ans=0;
         for(int i = 0;i<=n;i++){
-            int rank = lower_bound(comp.begin(),comp.end(),prefix[i])-comp.begin()+1;
+            int  rank = lower_bound(comp.begin(),comp.end(),prefix[i])-comp.begin()+1;
             
 
             int smaller = fn.query(rank-1);
