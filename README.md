@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0686-repeated-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1143-longest-common-subsequence) |
@@ -325,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0743-network-delay-time) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
