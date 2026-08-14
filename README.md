@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0085-maximal-rectangle) |
 | [0733-flood-fill](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0827-making-a-large-island) |
 | [1631-path-with-minimum-effort](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1631-path-with-minimum-effort) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0085-maximal-rectangle) |
 | [1021-remove-outermost-parentheses](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -348,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0307-range-sum-query-mutable) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
