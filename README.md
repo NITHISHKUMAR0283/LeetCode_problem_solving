@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
+| [4017-peaks-in-array-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4017-peaks-in-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [4017-peaks-in-array-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4017-peaks-in-array-ii) |
 ## Counting
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0053-maximum-subarray) |
 | [0307-range-sum-query-mutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0307-range-sum-query-mutable) |
+| [4017-peaks-in-array-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4017-peaks-in-array-ii) |
 ## Union-Find
 |  |
 | ------- |
