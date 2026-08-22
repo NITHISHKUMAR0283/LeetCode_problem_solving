@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0169-majority-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0213-house-robber-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0229-majority-element-ii) |
 | [1048-longest-string-chain](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0307-range-sum-query-mutable) |
 | [4017-peaks-in-array-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4017-peaks-in-array-ii) |
 ## Union-Find
@@ -370,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0175-combine-two-tables) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
