@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0151-reverse-words-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0686-repeated-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1021-remove-outermost-parentheses) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0673-number-of-longest-increasing-subsequence) |
