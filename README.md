@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [4017-peaks-in-array-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4017-peaks-in-array-ii) |
+| [4024-nearest-available-drone](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4024-nearest-available-drone) |
 ## Binary Search
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0845-longest-mountain-in-array) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3955-valid-binary-strings-with-cost-limit) |
+| [4024-nearest-available-drone](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4024-nearest-available-drone) |
 ## Bit Manipulation
 |  |
 | ------- |
