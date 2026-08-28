@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0151-reverse-words-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0686-repeated-string-match) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Recursion
 |  |
