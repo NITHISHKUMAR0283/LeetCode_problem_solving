@@ -1,45 +1,30 @@
 class Solution {
 public:
-    
-    vector<vector<int>> twoSum(vector<int>& nums, int target,int start) { 
-        vector<vector<int>> sol; 
-        int n = nums.size();
-        
-        int i = start,j=nums.size()-1;
-        while(i<j){
-            int sum = nums[i]+nums[j];
-            if(sum==target){
-                sol.push_back({nums[i],nums[j]});
-                j--;
-            }
-            if(sum>target){
-                j--;
-            }
-            else if(sum<target){
-                i++;
-            }
-            
-        }
-        return sol;
-
-    }
     vector<vector<int>> threeSum(vector<int>& nums) {
-        int n = nums.size();
+        vector<vector<int>> solution;
         sort(nums.begin(),nums.end());
+        int n = nums.size();
         
-        set<vector<int>> s;
-        for(int i = 0;i<n-1;i++){
-            if(i>0 && nums[i]==nums[i-1])continue;
-            int sum = nums[i];
-            auto rems = twoSum(nums,-sum,i+1);
-            for(const auto& rem :rems){
-            int j = rem[0];
-            int k = rem[1];
-                s.insert({nums[i],j,k});
-            }
-        }
+            for(int j = 0;j<n;j++){
+                if(j>0 && nums[j]==nums[j-1])continue;
+                int low = j+1;
+                int high = n-1;
+                while(low<high){
+                    if(low >j && nums[low]==nums[low-1])continue;
+                    int sum = nums[low]+nums[high]+nums[j];
+                    if(sum>0)high--;
+                    else if(sum==0){
+                        solution.push_back({nums[j],nums[low],nums[high]});
+                        while (low < high && nums[low] == nums[low + 1]) low++;
+                        while (low < high && nums[high] == nums[high - 1]) high--;
+                        low++;
+                        high--;
+                        }
+                    else low++;                    
+                }
+            
 
-        vector<vector<int>> sol(s.begin(),s.end());
-        return sol;
+        }
+        return solution;
     }
 };
