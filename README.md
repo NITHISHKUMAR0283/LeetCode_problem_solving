@@ -166,12 +166,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0210-course-schedule-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0733-flood-fill) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Simulation
 |  |
@@ -392,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0416-partition-equal-subset-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
