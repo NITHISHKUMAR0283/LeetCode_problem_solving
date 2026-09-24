@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0647-palindromic-substrings) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0229-majority-element-ii) |
 | [1048-longest-string-chain](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1048-longest-string-chain) |
@@ -426,4 +429,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0543-diameter-of-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
