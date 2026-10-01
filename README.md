@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [4017-peaks-in-array-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4017-peaks-in-array-ii) |
 | [4024-nearest-available-drone](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4024-nearest-available-drone) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3692-majority-frequency-characters](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3692-majority-frequency-characters) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Tree
 |  |
 | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Recursion
 |  |
 | ------- |
