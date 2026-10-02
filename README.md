@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4017-peaks-in-array-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4017-peaks-in-array-ii) |
 | [4024-nearest-available-drone](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4024-nearest-available-drone) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4061-minimum-queen-moves-to-reach-target) |
+| [4062-transform-array-using-pair-operations](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4062-transform-array-using-pair-operations) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
 |  |
@@ -449,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0075-sort-colors) |
+## Brainteaser
+|  |
+| ------- |
+| [4062-transform-array-using-pair-operations](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4062-transform-array-using-pair-operations) |
 <!---LeetCode Topics End-->
