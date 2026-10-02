@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4024-nearest-available-drone](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4024-nearest-available-drone) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4062-transform-array-using-pair-operations) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3692-majority-frequency-characters](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3692-majority-frequency-characters) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Tree
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2420-find-all-good-indices](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2420-find-all-good-indices) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
