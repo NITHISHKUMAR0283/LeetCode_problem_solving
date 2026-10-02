@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [4017-peaks-in-array-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4017-peaks-in-array-ii) |
 | [4024-nearest-available-drone](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4024-nearest-available-drone) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1922-count-good-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
 |  |
 | ------- |
