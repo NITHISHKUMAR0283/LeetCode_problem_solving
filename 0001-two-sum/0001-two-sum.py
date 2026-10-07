@@ -7,10 +7,11 @@ class Solution(object):
         """
         Ele_ind = {} #primitive dict allowed in alpha 300
 
-        for i in range(len(nums)): # making ele , index pair 
+
+
+        for i in range(len(nums)): # finding complement , if found return its index
+            complement = target-nums[i]
+
+            if target-nums[i] in Ele_ind :
+                return [Ele_ind[complement],i]
             Ele_ind[nums[i]]=i
-
-
-        for i in range(len(nums)):
-            if target-nums[i] in Ele_ind and i !=Ele_ind[target-nums[i]]:
-                return [i,Ele_ind[target-nums[i]]]
