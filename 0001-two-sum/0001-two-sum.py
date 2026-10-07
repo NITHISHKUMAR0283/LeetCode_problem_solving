@@ -9,9 +9,9 @@ class Solution(object):
 
 
 
-        for i in range(len(nums)): # finding complement , if found return its index
-            complement = target-nums[i]
+        for i,num in enumerate(nums): # finding complement , if found return its index
+            complement = target-num
 
-            if target-nums[i] in Ele_ind :
+            if target-num in Ele_ind :
                 return [Ele_ind[complement],i]
-            Ele_ind[nums[i]]=i
+            Ele_ind[num]=i
