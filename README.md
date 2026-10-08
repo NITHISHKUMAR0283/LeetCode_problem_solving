@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0070-climbing-stairs) |
 | [1922-count-good-numbers](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1922-count-good-numbers) |
