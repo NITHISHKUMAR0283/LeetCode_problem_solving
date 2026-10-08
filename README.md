@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0424-longest-repeating-character-replacement) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0283-move-zeroes) |
