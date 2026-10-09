@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2000-reverse-prefix-of-word](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2000-reverse-prefix-of-word) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3692-majority-frequency-characters](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3692-majority-frequency-characters) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0680-valid-palindrome-ii) |
 | [0845-longest-mountain-in-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0845-longest-mountain-in-array) |
 | [1048-longest-string-chain](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1048-longest-string-chain) |
+| [2000-reverse-prefix-of-word](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2000-reverse-prefix-of-word) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1021-remove-outermost-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
 | ------- |
