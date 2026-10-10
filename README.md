@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0349-intersection-of-two-arrays) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0540-single-element-in-a-sorted-array) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0494-target-sum) |
@@ -504,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0322-coin-change) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
