@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0977-squares-of-a-sorted-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0680-valid-palindrome-ii) |
 | [0845-longest-mountain-in-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1048-longest-string-chain) |
 | [2000-reverse-prefix-of-word](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2000-reverse-prefix-of-word) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1547-minimum-cost-to-cut-a-stick) |
