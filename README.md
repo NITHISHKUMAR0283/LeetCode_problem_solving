@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1048-longest-string-chain) |
+| [1122-relative-sort-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1313-decompress-run-length-encoded-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1313-decompress-run-length-encoded-list) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1002-find-common-characters) |
 | [1048-longest-string-chain](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1048-longest-string-chain) |
+| [1122-relative-sort-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1048-longest-string-chain) |
+| [1122-relative-sort-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1122-relative-sort-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -518,10 +521,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1122-relative-sort-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -534,4 +539,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0300-longest-increasing-subsequence) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
