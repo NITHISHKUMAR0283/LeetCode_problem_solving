@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1313-decompress-run-length-encoded-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1313-decompress-run-length-encoded-list) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2215-find-the-difference-of-two-arrays) |
