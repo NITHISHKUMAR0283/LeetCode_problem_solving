@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0349-intersection-of-two-arrays) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0085-maximal-rectangle) |
+| [0304-range-sum-query-2d-immutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0827-making-a-large-island) |
 | [1631-path-with-minimum-effort](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1631-path-with-minimum-effort) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0930-binary-subarrays-with-sum) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0307-range-sum-query-mutable) |
 ## Sqrt Decomposition
 |  |
