@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0125-valid-palindrome) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0234-palindrome-linked-list) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
