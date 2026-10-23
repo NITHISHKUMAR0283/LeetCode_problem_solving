@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1313-decompress-run-length-encoded-list) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1441-build-an-array-with-stack-operations](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1470-shuffle-the-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1631-path-with-minimum-effort) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0682-baseball-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1441-build-an-array-with-stack-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Memoization
 |  |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1021-remove-outermost-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1441-build-an-array-with-stack-operations) |
 | [2000-reverse-prefix-of-word](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
