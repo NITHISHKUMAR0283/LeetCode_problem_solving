@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0733-flood-fill) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Memoization
 |  |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
