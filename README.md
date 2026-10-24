@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0739-daily-temperatures) |
 | [0827-making-a-large-island](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0827-making-a-large-island) |
 | [0845-longest-mountain-in-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0875-koko-eating-bananas) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1441-build-an-array-with-stack-operations) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0085-maximal-rectangle) |
+| [0739-daily-temperatures](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0739-daily-temperatures) |
 ## Database
 |  |
 | ------- |
