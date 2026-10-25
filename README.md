@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0307-range-sum-query-mutable) |
+| [0901-online-stock-span](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Sqrt Decomposition
 |  |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0901-online-stock-span) |
 ## Database
 |  |
 | ------- |
@@ -627,4 +630,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0014-longest-common-prefix) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
