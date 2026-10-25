@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1313-decompress-run-length-encoded-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1313-decompress-run-length-encoded-list) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1441-build-an-array-with-stack-operations) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2000-reverse-prefix-of-word) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0307-range-sum-query-mutable) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Sqrt Decomposition
 |  |
 | ------- |
