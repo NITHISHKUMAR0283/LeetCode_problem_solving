@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0503-next-greater-element-ii) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0307-range-sum-query-mutable) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
