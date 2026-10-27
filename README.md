@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0682-baseball-game) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0237-delete-node-in-a-linked-list) |
+| [0622-design-circular-queue](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0622-design-circular-queue) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0307-range-sum-query-mutable) |
+| [0622-design-circular-queue](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Sqrt Decomposition
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0622-design-circular-queue) |
 ## Trie
 |  |
 | ------- |
