@@ -1,7 +1,7 @@
 class Solution(object):
     def minWindow(self, s, t):
-        freq = [0]*100
-        patt = [0]*100
+        freq = [0]*58
+        patt = [0]*58
         
         left = 0
         right  = 0
@@ -17,7 +17,7 @@ class Solution(object):
             freq[ind]+=1
             right+=1
             found = True
-            for i in range(100):
+            for i in range(58):
                 if freq[i]<patt[i]:
                     found = False
                     break
