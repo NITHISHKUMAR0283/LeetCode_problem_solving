@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0213-house-robber-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0344-reverse-string) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0189-rotate-array) |
 | [1922-count-good-numbers](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1922-count-good-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3658-gcd-of-odd-and-even-sums) |
