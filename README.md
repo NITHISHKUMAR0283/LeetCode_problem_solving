@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0219-contains-duplicate-ii) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0543-diameter-of-binary-tree) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0322-coin-change) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0827-making-a-large-island) |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0547-number-of-provinces) |
 | [0827-making-a-large-island](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
