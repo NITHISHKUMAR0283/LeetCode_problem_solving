@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0846-hand-of-straights) |
 | [0890-find-and-replace-pattern](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0890-find-and-replace-pattern) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0621-task-scheduler](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0846-hand-of-straights) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
+| [0621-task-scheduler](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0846-hand-of-straights) |
 | [0905-sort-array-by-parity](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0922-sort-array-by-parity-ii) |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -569,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1631-path-with-minimum-effort) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1648-sell-diminishing-valued-colored-balls) |
