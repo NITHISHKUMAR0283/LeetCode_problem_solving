@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0300-longest-increasing-subsequence) |
