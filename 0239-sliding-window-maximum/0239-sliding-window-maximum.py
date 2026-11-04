@@ -8,7 +8,7 @@ class Solution(object):
         dequeue = deque()
         result = []
         for i in range(k):
-            while len(dequeue)>0 and nums[dequeue[-1]]<nums[i]:
+            while dequeue and nums[dequeue[-1]]<nums[i]:
                 dequeue.pop()
             dequeue.append(i)
         result.append(nums[dequeue[0]])
@@ -17,7 +17,7 @@ class Solution(object):
             
             if dequeue[0]<i-k+1:
                 dequeue.popleft()
-            while len(dequeue)>0 and nums[dequeue[-1]]<nums[i]:
+            while dequeue and nums[dequeue[-1]]<nums[i]:
                 dequeue.pop()
             dequeue.append(i)
             result.append(nums[dequeue[0]])
