@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0349-intersection-of-two-arrays) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1631-path-with-minimum-effort) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0307-range-sum-query-mutable) |
@@ -702,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0901-online-stock-span) |
 ## Merge Sort
 |  |
