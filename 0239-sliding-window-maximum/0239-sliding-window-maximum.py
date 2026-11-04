@@ -7,19 +7,14 @@ class Solution(object):
         """
         dequeue = deque()
         result = []
-        for i in range(k):
-            while dequeue and nums[dequeue[-1]]<nums[i]:
-                dequeue.pop()
-            dequeue.append(i)
-        result.append(nums[dequeue[0]])
-
-        for i in range(k,len(nums)):
+        for i in range(len(nums)):
             
-            if dequeue[0]<i-k+1:
+            if dequeue and dequeue[0]<i-k+1:
                 dequeue.popleft()
             while dequeue and nums[dequeue[-1]]<nums[i]:
                 dequeue.pop()
             dequeue.append(i)
-            result.append(nums[dequeue[0]])
+            if i>=k-1:
+                result.append(nums[dequeue[0]])
         return result
         
