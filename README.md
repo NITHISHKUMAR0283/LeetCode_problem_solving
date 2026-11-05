@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0680-valid-palindrome-ii) |
 | [0845-longest-mountain-in-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0905-sort-array-by-parity) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0658-find-k-closest-elements) |
 | [0846-hand-of-straights](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0846-hand-of-straights) |
 | [0905-sort-array-by-parity](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0922-sort-array-by-parity-ii) |
@@ -523,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0992-subarrays-with-k-different-integers) |
@@ -583,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1631-path-with-minimum-effort) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1648-sell-diminishing-valued-colored-balls) |
