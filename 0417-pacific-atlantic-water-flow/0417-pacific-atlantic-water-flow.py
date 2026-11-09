@@ -22,14 +22,14 @@ class Solution(object):
         n = len(heights[0])
         pr = set()
         ar = set()
-        queue= []
+        queue= deque()
         for i in range(m):
             queue.append((i,0))
         for j in range(n):
             queue.append((0,j))
 
         self.bfs(heights,pr,queue)
-        queue = []
+        queue = deque()
         for i in range(m):
             queue.append((i,n-1))
         for j in range(n):
