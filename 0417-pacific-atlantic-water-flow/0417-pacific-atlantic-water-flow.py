@@ -8,7 +8,7 @@ class Solution(object):
         result = []
         while queue:
             for k in range(len(queue)):
-                si,sj = queue.pop()
+                si,sj = queue.popleft()
                 success.add((si,sj))
                 for ni,nj in directions:
                     i , j = ni+si , nj+sj
