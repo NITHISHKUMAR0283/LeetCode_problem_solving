@@ -35,11 +35,4 @@ class Solution(object):
         for j in range(n):
             queue.append((m-1,j))
         self.bfs(heights,ar,queue)
-        result = set()
-        for t in pr:
-            if t in ar:
-                result.add(t)
-        for t in ar:
-            if t in pr:
-                result.add(t)
-        return list(result)
+        return list(pr & ar)
