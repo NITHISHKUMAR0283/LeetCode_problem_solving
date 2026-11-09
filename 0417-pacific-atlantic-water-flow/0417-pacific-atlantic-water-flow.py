@@ -3,7 +3,7 @@ class Solution(object):
         m = len(heights)
         n = len(heights[0])
 
-        directions = {(0,1),(0,-1),(1,0),(-1,0)}
+        directions = [(0,1),(0,-1),(1,0),(-1,0)]
         
         result = []
         while queue:
