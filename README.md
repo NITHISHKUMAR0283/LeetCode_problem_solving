@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1544-make-the-string-great) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2000-reverse-prefix-of-word](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2000-reverse-prefix-of-word) |
+| [2055-plates-between-candles](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2055-plates-between-candles) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3692-majority-frequency-characters](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3692-majority-frequency-characters) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1991-find-the-middle-index-in-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2055-plates-between-candles](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2055-plates-between-candles) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1631-path-with-minimum-effort) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2055-plates-between-candles](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2055-plates-between-candles) |
 ## Two Pointers
 |  |
 | ------- |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1991-find-the-middle-index-in-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1991-find-the-middle-index-in-array) |
+| [2055-plates-between-candles](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2055-plates-between-candles) |
 | [2420-find-all-good-indices](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2420-find-all-good-indices) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
