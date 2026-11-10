@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [4017-peaks-in-array-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4017-peaks-in-array-ii) |
 | [4024-nearest-available-drone](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4024-nearest-available-drone) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2420-find-all-good-indices](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2420-find-all-good-indices) |
 | [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Math
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3692-majority-frequency-characters](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3692-majority-frequency-characters) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0846-hand-of-straights) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Sorting
 |  |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0845-longest-mountain-in-array) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [4024-nearest-available-drone](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4024-nearest-available-drone) |
 ## Bit Manipulation
@@ -509,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1991-find-the-middle-index-in-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2420-find-all-good-indices](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2420-find-all-good-indices) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Binary Indexed Tree
