@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0802-find-eventual-safe-states) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0802-find-eventual-safe-states) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
 |  |
