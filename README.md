@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4062-transform-array-using-pair-operations](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4062-transform-array-using-pair-operations) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
+| [4107-count-valid-suffix-sorts-i](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4107-count-valid-suffix-sorts-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3692-majority-frequency-characters](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3692-majority-frequency-characters) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
+| [4107-count-valid-suffix-sorts-i](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4107-count-valid-suffix-sorts-i) |
 ## Tree
 |  |
 | ------- |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3692-majority-frequency-characters](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3692-majority-frequency-characters) |
+| [4107-count-valid-suffix-sorts-i](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4107-count-valid-suffix-sorts-i) |
 ## Sliding Window
 |  |
 | ------- |
