@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2055-plates-between-candles](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2055-plates-between-candles) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0846-hand-of-straights) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
