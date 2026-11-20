@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2420-find-all-good-indices](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2420-find-all-good-indices) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3434-maximum-frequency-after-subarray-operation) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
