@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2401-longest-nice-subarray](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2401-longest-nice-subarray) |
 | [2420-find-all-good-indices](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2420-find-all-good-indices) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2401-longest-nice-subarray](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2401-longest-nice-subarray) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Ordered Set
 |  |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2401-longest-nice-subarray](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Recursion
