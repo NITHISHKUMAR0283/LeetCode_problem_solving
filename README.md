@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2055-plates-between-candles](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2055-plates-between-candles) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2104-sum-of-subarray-ranges](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2000-reverse-prefix-of-word) |
+| [2104-sum-of-subarray-ranges](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/0901-online-stock-span) |
+| [2104-sum-of-subarray-ranges](https://github.com/NITHISHKUMAR0283/LeetCode_problem_solving/tree/master/2104-sum-of-subarray-ranges) |
 ## Database
 |  |
 | ------- |
